@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErrorBot1122
-- 👀 I’m interested in coding, playing roblox and mincraft
+- 👀 I’m interested in coding/playing Roblox and Mincraft
 - 🌱 I’m currently learning C++, C#, Python, and Java???
 - 💞️ I’m looking to collaborate on javascript repos
 - 📫 How to reach me... you can't...
