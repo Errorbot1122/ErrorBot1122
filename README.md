@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding/playing Roblox and Mincraft
 - 🌱 I’m currently learning C++, C#, Python, and Java???
 - 💞️ I’m looking to collaborate on javascript repos
-- 📫 How to reach me... you can't...
+- 📫 How to reach me... you can't... (Sorry)
 
 P.S. Sadlly I usually code with my school chromebook and I most likely use [gitpod](gitpod.io) to code so some links may be block :(
 
