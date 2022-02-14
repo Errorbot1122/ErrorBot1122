@@ -10,3 +10,6 @@ P.S. Sadlly I usually code with my school chromebook and I most likely use [gitp
 ErrorBot1122/ErrorBot1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Stats
+![Errorbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights)
