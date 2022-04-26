@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ErrorBot1122
 - 👀 I’m interested in coding/playing Roblox and Mincraft
 - 🌱 I’m currently learning C++, C#, Python, and Java???
-- 💞️ I’m looking to collaborate on javascript repos
-- 📫 How to reach me... you can't... (Sorry)
+- 💞️ I’m looking to collaborate on Node repos
+- 📫 How to reach me... you can't rn... (Sorry)
 
 P.S. Sadlly I usually code with my school chromebook and I most likely use [gitpod](gitpod.io) or [replit](https://replit.com/@ErrorbotTHE2nd) to code so some links may be blocked for me :(
 
