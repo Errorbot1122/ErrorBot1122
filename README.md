@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ErrorBot1122
-- 👀 I’m interested in coding/playing Roblox and Mincraft
-- 🌱 I’m currently learning C++, C#, Python, and Java???
-- 💞️ I’m looking to collaborate on Node repos
+- 👋 Hi, I’m **Errorbot1122**
+- 👀 I’m interested in coding/playing Roblox and **Mincraft**
+- 🌱 I’m currently learning C++, C#, **Python**!
+- 💞️ I’m looking to collaborate on **Javascript** *repos*
 - 📫 How to reach me... you can't rn... (Sorry)
 
-P.S. Sadlly I usually code with my school chromebook and I most likely use ~~[gitpod](gitpod.io)~~ or [replit](https://replit.com/@ErrorbotTHE2nd) to code so some links may be blocked for me :(
+P.S. Sadlly I usually code with my school chromebook and I most likely use *~~[gitpod](gitpod.io)~~* or [replit](https://replit.com/@ErrorbotTHE2nd) to code so some links may be blocked for me :(
 
 <!---
 ErrorBot1122/ErrorBot1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
