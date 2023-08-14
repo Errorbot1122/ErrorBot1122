@@ -6,7 +6,7 @@
 
 P.S. Sadlly I ~~usually~~ sometimes code with my school chromebook and I most likely use *~~[gitpod](gitpod.io)~~* or [replit](https://replit.com/@ErrorbotTHE2nd) to code so some links may be blocked for me :(
 
-## My Setup
+## My Current Setup
 My less then $500 setup I guess!
 
  - CPU: https://amzn.to/3QH8ahI 
