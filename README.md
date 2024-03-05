@@ -1,10 +1,8 @@
 - 👋 Hi, I’m **Errorbot1122**
-- 👀 I’m interested in coding/playing Roblox and **Mincraft**
-- 🌱 I’m currently learning C++, C#, **Python**!
-- 💞️ I’m looking to collaborate on **Javascript** *repos*
+- 👀 I’m interested in coding **Mobile Apps**
+- 🌱 I’m currently learning **React**!
+- 💞️ I’m looking to collaborate on **Javascript** or **Python** *repos*
 - 📫 How to reach me... you can't rn... (Sorry)
-
-P.S. Sadlly I ~~usually~~ sometimes code with my school chromebook and I most likely use *~~[gitpod](gitpod.io)~~* or [replit](https://replit.com/@ErrorbotTHE2nd) to code so some links may be blocked for me :(
 
 ## My Current Setup
 My less then $500 setup I guess!
