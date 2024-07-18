@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding **Mobile Apps**
 - 🌱 I’m currently learning **React**!
 - 💞️ I’m looking to collaborate on **Javascript** or **Python** *repos*
-- 📫 How to reach me... you can't rn... (Sorry)
+- 📫 How to reach me... ***Contact Me At: errorbis@outlook.com***
 
 ## Stats
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
