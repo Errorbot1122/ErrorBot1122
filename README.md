@@ -2,6 +2,12 @@
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2040%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 478.8 kB Used in GitHub's Storage 
@@ -14,27 +20,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-🌆 Daytime                289 commits         ██████████████░░░░░░░░░░░   57.92 % 
-🌃 Evening                115 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Tuesday                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Thursday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Friday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Saturday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Sunday                   96 commits          █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -48,6 +33,10 @@ JSON                     0 secs              ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 hrs 58 mins       ████████████████████░░░░░   80.87 % 
+Linux                    42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,5 +52,5 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2025 22:46:36 UTC
+ Last Updated on 13/02/2025 23:34:44 UTC
 <!--END_SECTION:waka-->
