@@ -2,7 +2,7 @@
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
@@ -12,7 +12,7 @@
 
 > 📦 478.8 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2025
+> 🏆 53 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,18 +26,18 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Luau                     6 hrs 10 mins       ██████████████████░░░░░░░   73.91 % 
-Lua                      2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Luau                     7 hrs 40 mins       ███████████████████░░░░░░   77.86 % 
+Lua                      2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 39 mins       ███████████████████████░░   91.58 % 
-Linux                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Windows                  9 hrs 8 mins        ███████████████████████░░   92.85 % 
+Linux                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -53,5 +53,5 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2025 14:24:14 UTC
+ Last Updated on 19/02/2025 02:54:51 UTC
 <!--END_SECTION:waka-->
