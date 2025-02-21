@@ -2,7 +2,7 @@
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
@@ -20,6 +20,26 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Luau                     11 hrs 25 mins      █████████████████████████   98.15 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 38 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  11 hrs 24 mins      ████████████████████████░   97.94 % 
+Linux                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -33,5 +53,5 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2025 02:55:38 UTC
+ Last Updated on 21/02/2025 14:22:26 UTC
 <!--END_SECTION:waka-->
