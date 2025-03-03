@@ -2,7 +2,7 @@
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -12,7 +12,7 @@
 
 > 📦 358.7 kB Used in GitHub's Storage 
  > 
-> 🏆 76 Contributions in the Year 2025
+> 🏆 77 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,17 +26,17 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   11 hrs 12 mins      ██████████████████░░░░░░░   72.97 % 
-Luau                     4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   9 hrs 55 mins       ██████████████████░░░░░░░   70.50 % 
+Luau                     4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 12 mins      ██████████████████░░░░░░░   72.97 % 
-Windows                  4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Linux                    9 hrs 55 mins       ██████████████████░░░░░░░   70.50 % 
+Windows                  4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -52,5 +52,5 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2025 14:22:55 UTC
+ Last Updated on 03/03/2025 03:00:47 UTC
 <!--END_SECTION:waka-->
