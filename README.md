@@ -2,7 +2,7 @@
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -12,7 +12,7 @@
 
 > 📦 420.6 kB Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2025
+> 🏆 146 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,18 +26,18 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   13 hrs 43 mins      █████████████████░░░░░░░░   69.44 % 
-Luau                     4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-TOML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Python                   10 hrs 31 mins      ██████████████████░░░░░░░   72.20 % 
+Luau                     2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 57 mins      ██████████████████░░░░░░░   70.63 % 
-Windows                  5 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+Linux                    10 hrs 45 mins      ██████████████████░░░░░░░   73.79 % 
+Windows                  3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -53,5 +53,5 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/03/2025 14:25:35 UTC
+ Last Updated on 14/03/2025 03:00:09 UTC
 <!--END_SECTION:waka-->
