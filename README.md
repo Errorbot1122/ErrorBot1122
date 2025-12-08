@@ -2,7 +2,7 @@
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -12,7 +12,7 @@
 
 > 📦 436.4 kB Used in GitHub's Storage 
  > 
-> 🏆 233 Contributions in the Year 2025
+> 🏆 234 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,15 +43,15 @@ WSL                      4 mins              █░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Liquid                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Liquid                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 07/12/2025 14:25:02 UTC
+ Last Updated on 08/12/2025 03:27:27 UTC
 <!--END_SECTION:waka-->
