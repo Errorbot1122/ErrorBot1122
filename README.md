@@ -20,6 +20,22 @@
  > 
 > 🔑 15 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Python                   11 mins             █████████████████████████   98.90 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+
+🔥 Editors: 
+VS Code                  12 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      12 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -33,5 +49,5 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2026 03:49:21 UTC
+ Last Updated on 21/01/2026 14:40:13 UTC
 <!--END_SECTION:waka-->
