@@ -10,15 +10,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 436.5 kB Used in GitHub's Storage 
+> 📦 447.7 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2026
+> 🏆 8 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 15 Private Repositories 
+> 🔑 16 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -35,18 +35,18 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Liquid                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Liquid                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 11/04/2026 14:43:27 UTC
+ Last Updated on 12/04/2026 04:52:16 UTC
 <!--END_SECTION:waka-->
