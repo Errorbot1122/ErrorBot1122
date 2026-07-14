@@ -2,7 +2,7 @@
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -20,26 +20,6 @@
  > 
 > 🔑 17 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-reStructuredText         6 hrs 59 mins       ████████████░░░░░░░░░░░░░   48.86 % 
-Python                   6 hrs               ██████████░░░░░░░░░░░░░░░   41.90 % 
-JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Jinja2                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-
-🔥 Editors: 
-Neovim                   14 hrs 18 mins      █████████████████████████   99.95 % 
-Godot                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-💻 Operating System: 
-Linux                    14 hrs 19 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -53,5 +33,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2026 16:40:02 UTC
+ Last Updated on 14/07/2026 04:57:29 UTC
 <!--END_SECTION:waka-->
