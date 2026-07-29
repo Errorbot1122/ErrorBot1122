@@ -2,7 +2,7 @@
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -26,18 +26,18 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-reStructuredText         6 hrs 8 mins        ███████████████░░░░░░░░░░   58.55 % 
-GDScript3                3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+GDScript3                4 hrs 41 mins       ████████████████░░░░░░░░░   65.40 % 
+reStructuredText         1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 23 mins       ██████████████████░░░░░░░   70.51 % 
-Godot                    3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+Godot                    4 hrs 41 mins       ████████████████░░░░░░░░░   65.40 % 
+Neovim                   2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
 
 💻 Operating System: 
-Linux                    10 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    7 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -59,5 +59,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 16:09:17 UTC
+ Last Updated on 29/07/2026 05:29:22 UTC
 <!--END_SECTION:waka-->
