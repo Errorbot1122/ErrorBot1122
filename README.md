@@ -1,5 +1,6 @@
 ## Stats
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Buy Errorbot1122 A Coffee](https://www.buymeacoffee.com/errorbot1122)](https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=☕&slug=errorbot1122&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2044%20mins-blue?style=flat)
