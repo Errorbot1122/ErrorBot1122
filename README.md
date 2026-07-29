@@ -1,4 +1,20 @@
-[![Buy Errorbot1122 A Coffee](https://img.buymeacoffee.com/button-api/?text=Support%20my%20Projects!&emoji=☕&slug=errorbot1122&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/errorbot1122)
+Just a **Bot** making make _cool tools for the makers_ AND _great experiences for the ~~larp-~~_ **_I MEAN VIEWERS!!1!_** _IT WAS A MISSCLICK! A MISSCLI-_ wait... hold on _se-_
+
+```text
+[ERROR 1122 HAS BEEN ENCOUNTERED]
+[REBOOTING...]
+[...]
+[...]
+[...REBOOT COMPLETE]
+```
+
+_Ugh... What was that..._
+
+Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and I'm a _8 year strong_ programmer who is aspiring to be a content creator/game developer/animator/producer/filmmaker/... wait... thats all. _(Yah its a lot, hehe.)_
+
+<br/>
+
+[![Support Errorbot1122](https://img.buymeacoffee.com/button-api/?text=Support%20my%20Projects!&emoji=☕&slug=errorbot1122&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/errorbot1122)
 
 ## Stats
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
