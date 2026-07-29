@@ -1,4 +1,4 @@
-Just a **Bot** making make _cool tools for the makers_ AND _great experiences for the ~~larp-~~_ **_I MEAN VIEWERS!!1!_** _IT WAS A MISSCLICK! A MISSCLI-_ wait... hold on _se-_
+Just a **Bot** making make _cool tools for the makers_ AND _great experiences for the ~~larp-~~_ **_I MEAN VIEWERS!!1!_** _IT WAS A MISSCLICK! A MISSCLI-_ wait... hold on _`se-`_
 
 ```text
 [ERROR 1122 HAS BEEN ENCOUNTERED]
