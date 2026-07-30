@@ -22,7 +22,7 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and I'm a 
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -32,7 +32,7 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and I'm a 
 
 > 📦 451.1 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2026
+> 🏆 61 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,18 +46,18 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and I'm a 
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-GDScript3                4 hrs 41 mins       ████████████████░░░░░░░░░   65.40 % 
-reStructuredText         1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+GDScript3                10 hrs 25 mins      ██████████████████████░░░   86.23 % 
+reStructuredText         56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+TOML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔥 Editors: 
-Godot                    4 hrs 41 mins       ████████████████░░░░░░░░░   65.40 % 
-Neovim                   2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
+Godot                    10 hrs 17 mins      █████████████████████░░░░   85.12 % 
+Neovim                   1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 
 💻 Operating System: 
-Linux                    7 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    12 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +79,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 15:54:46 UTC
+ Last Updated on 30/07/2026 05:15:40 UTC
 <!--END_SECTION:waka-->
