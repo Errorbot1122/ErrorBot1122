@@ -22,7 +22,7 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and I'm a 
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,17 +46,18 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and I'm a 
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-GDScript3                28 hrs 22 mins      █████████████████████████   98.86 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+GDScript3                23 hrs 47 mins      ███████████████████████░░   93.65 % 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+reStructuredText         23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-Godot                    28 hrs 14 mins      █████████████████████████   98.39 % 
-Neovim                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Godot                    23 hrs 47 mins      ███████████████████████░░   93.65 % 
+Neovim                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 💻 Operating System: 
-Linux                    28 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,5 +79,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 16:05:07 UTC
+ Last Updated on 06/08/2026 05:24:02 UTC
 <!--END_SECTION:waka-->
