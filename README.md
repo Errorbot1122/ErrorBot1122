@@ -40,6 +40,32 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and I'm a 
  > 
 > 🔑 17 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+GDScript3                22 hrs 50 mins      ██████████████████████░░░   86.99 % 
+YAML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Python                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+reStructuredText         23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+
+🔥 Editors: 
+Godot                    22 hrs 50 mins      ██████████████████████░░░   86.99 % 
+Neovim                   3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+
+💻 Operating System: 
+Linux                    26 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -53,5 +79,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 03:50:39 UTC
+ Last Updated on 11/08/2026 15:07:08 UTC
 <!--END_SECTION:waka-->
