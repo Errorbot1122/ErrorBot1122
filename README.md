@@ -22,7 +22,7 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and I'm a 
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,18 +46,18 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and I'm a 
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-GDScript3                22 hrs 50 mins      ██████████████████████░░░   86.99 % 
-YAML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Python                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-reStructuredText         23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+GDScript3                17 hrs 10 mins      █████████████████████░░░░   83.42 % 
+YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Python                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+reStructuredText         23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-Godot                    22 hrs 50 mins      ██████████████████████░░░   86.99 % 
-Neovim                   3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Godot                    17 hrs 10 mins      █████████████████████░░░░   83.42 % 
+Neovim                   3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 
 💻 Operating System: 
-Linux                    26 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +79,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 15:07:08 UTC
+ Last Updated on 12/08/2026 04:13:29 UTC
 <!--END_SECTION:waka-->
