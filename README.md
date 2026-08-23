@@ -10,7 +10,7 @@ Just a **Bot** making make _cool tools for the makers_ AND _great experiences fo
 
 _Ugh... What was that..._
 
-Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and I'm a programmer since 2018 who is aspiring to be a content creator/game developer/animator/producer/filmmaker/... wait... thats all. _(Yah its a lot, hehe.)_
+Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and i've been programming since 2018. I aspire to be a content creator/game developer/animator/producer/filmmaker/... wait... thats all. _(Yah its a lot, hehe.)_
 
 <br/>
 
