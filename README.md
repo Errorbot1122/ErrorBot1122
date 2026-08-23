@@ -14,7 +14,7 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and I'm a 
 
 <br/>
 
-[![Support Errorbot1122](https://img.buymeacoffee.com/button-api/?text=Support%20my%20Projects!&emoji=☕&slug=errorbot1122&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/errorbot1122)
+[![Support Errorbot1122](https://img.buymeacoffee.com/button-api/?text=Support%20my%20Projects!&emoji=☕&slug=errorbot1122&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/errorbot)
 
 ## Stats
 [![Errorbot's GitHub stats](https://github-readme-stats-errorbot1122s-projects.vercel.app/api?username=errorbot1122&show_icons=true&theme=city_lights&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
