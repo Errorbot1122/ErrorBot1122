@@ -22,7 +22,7 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and i've b
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -40,6 +40,32 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and i've b
  > 
 > 🔑 17 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Python                   41 mins             ████████████████████░░░░░   78.39 % 
+Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+GDScript3                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+
+🔥 Editors: 
+Neovim                   51 mins             ████████████████████████░   96.60 % 
+Godot                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+
+💻 Operating System: 
+Linux                    52 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -53,5 +79,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 07:03:36 UTC
+ Last Updated on 06/09/2026 16:51:40 UTC
 <!--END_SECTION:waka-->
