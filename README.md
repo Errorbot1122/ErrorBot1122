@@ -22,6 +22,8 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and i've b
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2039%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.59%20million%20lines%20of%20code-blue?style=flat)
@@ -38,6 +40,30 @@ Anyhow, **_HI!_** I'm **Errorbot1122**! You can call me **Errorbot**, and i've b
  > 
 > 🔑 17 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+sh                       6 mins              █████████████████░░░░░░░░   69.62 % 
+Desktop file             1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Text                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+sshconfig                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+
+🔥 Editors: 
+Neovim                   9 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    9 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -51,5 +77,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 01:45:58 UTC
+ Last Updated on 21/11/2026 09:31:39 UTC
 <!--END_SECTION:waka-->
